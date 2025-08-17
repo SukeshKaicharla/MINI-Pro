@@ -18,7 +18,7 @@
 - 13.When the user accesses Update.jsp, they can provide data to update the records in the database.
 - 14.After submitting the data in Update.jsp, the form data is processed in Update2.jsp, which performs the actual database update operation.
 - 15.When the user accesses Delete.jsp, they can provide data to delete records from the database.
-- 16.The application handles exceptions, and if any unexpected error occurs, the user is redirected to Exception.jsp.   .......
+- 16.The application handles exceptions, and if any unexpected error occurs, the user is redirected to Exception.jsp.   ............
 
 <!---
 SukeshKaicharla/SukeshKaicharla is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
