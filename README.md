@@ -10,7 +10,7 @@
 - 5.The user accesses login.html to log in with their registered credentials.
 - 6.The form data from login.html is submitted to login.jsp.
 - 7.In login.jsp, the submitted login credentials are validated against the database.
-- 8.If the login is successful, the user is redirected to Index.html.
+- 8.If the login is successful, the user is redirected to Index.html.....
 - 9.Index.html is the main page of the web application, accessible only after successful login.
 - 10.From Index.html, the user can navigate to other pages, such as insert.jsp, view.jsp, etc.
 - 11.When the user accesses insert.jsp, they can input data to be inserted into the database.
